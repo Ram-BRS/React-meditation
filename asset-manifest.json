@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.caa6395f.css",
-    "main.js": "/static/js/main.5b0be76a.js",
-    "static/js/453.e6b7e624.chunk.js": "/static/js/453.e6b7e624.chunk.js",
-    "index.html": "/index.html",
-    "main.caa6395f.css.map": "/static/css/main.caa6395f.css.map",
-    "main.5b0be76a.js.map": "/static/js/main.5b0be76a.js.map",
-    "453.e6b7e624.chunk.js.map": "/static/js/453.e6b7e624.chunk.js.map"
+    "main.css": "/React-meditation/static/css/main.caa6395f.css",
+    "main.js": "/React-meditation/static/js/main.a7c22fc2.js",
+    "static/js/453.e6b7e624.chunk.js": "/React-meditation/static/js/453.e6b7e624.chunk.js",
+    "index.html": "/React-meditation/index.html",
+    "main.caa6395f.css.map": "/React-meditation/static/css/main.caa6395f.css.map",
+    "main.a7c22fc2.js.map": "/React-meditation/static/js/main.a7c22fc2.js.map",
+    "453.e6b7e624.chunk.js.map": "/React-meditation/static/js/453.e6b7e624.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caa6395f.css",
-    "static/js/main.5b0be76a.js"
+    "static/js/main.a7c22fc2.js"
   ]
 }
